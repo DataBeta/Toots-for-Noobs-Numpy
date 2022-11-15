@@ -1,4 +1,4 @@
-**## Let's learn Data Science**
+## **Let's learn Data Science**
 
 ### It isn't a Masterclass - It's a Mediocre Class
 
